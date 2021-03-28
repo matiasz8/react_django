@@ -1,0 +1,13 @@
+{
+    "status": "done",
+    "publicPath": "assets/dist/",
+    "chunks": {
+        "main": [
+            {
+                "name": "main-ae04d41c33e9ecab0e2d.js",
+                "publicPath": "assets/dist/main-ae04d41c33e9ecab0e2d.js",
+                "path": "/home/nquiroga/Documents/projects/tokkoLabs/poc_react/react_django/assets/dist/main-ae04d41c33e9ecab0e2d.js"
+            }
+        ]
+    }
+}
